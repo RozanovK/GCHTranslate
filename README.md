@@ -1,0 +1,2 @@
+# GCHTranslate
+ZTE .gch translator
